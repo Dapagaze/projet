@@ -39,6 +39,7 @@ class Users(db.Model):
     CNI = db.Column(db.String(), unique=True)
     telephone = db.Column(db.String(100))
     photo_pp = db.Column(db.String(100))
+    statut = db.Column(db.String())
 
     def password(self):
         raise AttributeError("password is not a readable attribute!")
