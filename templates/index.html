@@ -4,12 +4,51 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title> page index </title>
+		{% include 'header.html' %}
+
 </head>
 <body>
 	
-	<p style="font-size: 40px;color:forestgreen;">      APPLICATION DE GESTION DE DONNEES
+	<p style="font-size: 40px;color:forestgreen;">APPLICATION DE GESTION DE DONNEES
     </p> 
-
+    <div>
+    	<div class="overflow-x-auto">
+  <table class="table w-full">
+    <!-- head -->
+    <thead>
+      <tr>
+        <th></th>
+        <th>Name</th>
+        <th>Job</th>
+        <th>Favorite Color</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- row 1 -->
+      <tr>
+        <th>1</th>
+        <td>Cy Ganderton</td>
+        <td>Quality Control Specialist</td>
+        <td>Blue</td>
+      </tr>
+      <!-- row 2 -->
+      <tr>
+        <th>2</th>
+        <td>Hart Hagerty</td>
+        <td>Desktop Support Technician</td>
+        <td>Purple</td>
+      </tr>
+      <!-- row 3 -->
+      <tr>
+        <th>3</th>
+        <td>Brice Swyre</td>
+        <td>Tax Accountant</td>
+        <td>Red</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+    </div>
     <a href="{{url_for('login')}}"><h2>Se connecter </h2></a><br><br>
     <a href="{{url_for('register')}}"><h2>S'inscrire</h2></a><br><br>                      
                       

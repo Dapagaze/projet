@@ -28,16 +28,17 @@ db.init_app(app)
 class Users(db.Model):
     __tablename__ = "Inscription"
     id = db.Column(db.Integer, primary_key=True)
-    Nom = db.Column(db.String(100), unique=True)
+    Nom = db.Column(db.String(100))
     prenom = db.Column(db.String(100))
     username = db.Column(db.String(100), unique=True)
     email = db.Column(db.String(100), unique=True)
     password_hash = db.Column(db.String())
     date_naissance = db.Column(db.String())
-    nationalite = db.Column(db.String(50), unique=True)
+    nationalite = db.Column(db.String(50))
     sexe = db.Column(db.String(1), unique=True)
-    CNI = db.Column(db.String())
+    CNI = db.Column(db.String(), unique=True)
     telephone = db.Column(db.String(100))
+    photo_pp = db.Column(db.String(100))
 
     def password(self):
         raise AttributeError("password is not a readable attribute!")
@@ -100,7 +101,7 @@ def register():
         print("Les Données du Formulaire sont enrégistrées avec succès")
         print("---------------")
         print(
-            f"nom : {name},prenom:{lastname} ,username:{username},email :{email} ,password_hash: {password_hash},date_naissance:{date_naiss},nationalite:{nationalite},cni:{cni},telephone: {tel} "
+            f"nom : {name},prenom:{lastname} ,username:{username},email :{email} ,password_hash: {password_hash},date_naissance:{date_naiss},nationalite:{nationalite},sexe:{sexe},cni:{cni},telephone: {tel} "
         )
         return redirect(url_for("login"))
     else:

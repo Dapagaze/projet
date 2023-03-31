@@ -1,0 +1,1446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"date",
+				"date_naiss"
+			],
+			[
+				"dat",
+				"date_naissance"
+			],
+			[
+				"md",
+				"mdp"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"sex",
+				"sexe"
+			],
+			[
+				"national",
+				"nationalite"
+			],
+			[
+				"pass",
+				"password_hash"
+			],
+			[
+				"U",
+				"UserMixin"
+			],
+			[
+				"logi",
+				"login_manager"
+			],
+			[
+				"login",
+				"login_manager"
+			],
+			[
+				"g",
+				"generate_password_hash"
+			],
+			[
+				"passwor",
+				"password_hash"
+			],
+			[
+				"metho",
+				"method"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"ps",
+				"password"
+			],
+			[
+				"conn",
+				"connecter"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"fa",
+				"False"
+			],
+			[
+				"log",
+				"log_exception"
+			],
+			[
+				"flask",
+				"Flask\tFlask"
+			],
+			[
+				"adm",
+				"AdminIndexView"
+			],
+			[
+				"fl",
+				"flask_admin"
+			],
+			[
+				"fla",
+				"flask_sqlalchemy"
+			],
+			[
+				"emai",
+				"email"
+			],
+			[
+				"na",
+				"nationalite"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"mai",
+				"e-mail"
+			],
+			[
+				"n",
+				"nationalite"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"a",
+				"Age"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"for",
+				"formulaire"
+			],
+			[
+				"resul",
+				"resultat.html"
+			],
+			[
+				"GE",
+				"GET"
+			],
+			[
+				"fo",
+				"formuaire"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"data",
+				"data_user"
+			],
+			[
+				"pas",
+				"password_hash"
+			],
+			[
+				"POS",
+				"POST"
+			],
+			[
+				"form",
+				"formulaire2"
+			],
+			[
+				"te",
+				"tel"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"For",
+				"Formulaire"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"bef",
+				"before_first_request"
+			],
+			[
+				"connex",
+				"ConnexionModel"
+			],
+			[
+				"Connex",
+				"ConnexionMixin"
+			],
+			[
+				"password_",
+				"password_hash"
+			],
+			[
+				"check_",
+				"check_password"
+			],
+			[
+				"geene",
+				"generate_password_hash"
+			],
+			[
+				"passwo",
+				"password_hash"
+			],
+			[
+				"En",
+				"Enregistrement"
+			],
+			[
+				"Use",
+				"UserName"
+			],
+			[
+				"E",
+				"Enregistrement"
+			],
+			[
+				"Strin",
+				"StringField"
+			],
+			[
+				"wtf",
+				"wtforms"
+			],
+			[
+				"Me",
+				"Mes_informations"
+			],
+			[
+				"mes",
+				"Mes_informations"
+			],
+			[
+				"ren",
+				"render_template"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"cus",
+				"cursor"
+			],
+			[
+				"e",
+				"e-mail"
+			],
+			[
+				"ut",
+				"utf-8"
+			],
+			[
+				"pasw",
+				"password"
+			],
+			[
+				"nume",
+				"numero_teleplone"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"lie",
+				"lieu_naissance"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"fal",
+				"False"
+			],
+			[
+				"reg",
+				"RegisterForm"
+			],
+			[
+				"from_",
+				"from_object"
+			],
+			[
+				"regist",
+				"RegisterForm"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"Va",
+				"validators"
+			],
+			[
+				"Flas",
+				"FlaskForm"
+			],
+			[
+				"sty",
+				"styleheet"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"Usern",
+				"Username"
+			],
+			[
+				"Us",
+				"Username"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"check_pass",
+				"check_password2_hash"
+			],
+			[
+				"che",
+				"check_password_hash"
+			],
+			[
+				"Num",
+				"numero"
+			],
+			[
+				"valid",
+				"ValidationError"
+			],
+			[
+				"sub",
+				"SubmitField"
+			],
+			[
+				"render_",
+				"render_kw="
+			],
+			[
+				"inpu",
+				"InputRequired"
+			],
+			[
+				"len",
+				"Length"
+			],
+			[
+				"va",
+				"validators"
+			],
+			[
+				"subm",
+				"SubmitField"
+			],
+			[
+				"password",
+				"PasswordField"
+			],
+			[
+				"colum",
+				"Column"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"visib",
+				"visible"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"userm",
+				"UserModel"
+			],
+			[
+				"user",
+				"UserMixin"
+			],
+			[
+				"p",
+				"password_hash"
+			],
+			[
+				"chec",
+				"check_password_hash"
+			],
+			[
+				"colu",
+				"Column"
+			],
+			[
+				"User",
+				"UserMixin"
+			],
+			[
+				"sq",
+				"SQLAlchemy"
+			],
+			[
+				"lo",
+				"loginManager"
+			],
+			[
+				"sql",
+				"sqlalchemy"
+			],
+			[
+				"flas",
+				"flask_login"
+			],
+			[
+				"integ",
+				"Integer"
+			],
+			[
+				"cre",
+				"create_engine"
+			],
+			[
+				"creat",
+				"create_engine"
+			],
+			[
+				"stri",
+				"stream_with_context"
+			],
+			[
+				"intege",
+				"Integer"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"cha",
+				"CHAR"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"scr",
+				"src"
+			],
+			[
+				"d",
+				"daatetime"
+			],
+			[
+				"D",
+				"DOCTYPE"
+			],
+			[
+				"dateti",
+				"sdatetime\tDateTimeField (sdatetime)"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"blu",
+				"blueviolet"
+			],
+			[
+				"bagr",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "projet.py",
+			"settings":
+			{
+				"buffer_size": 3396,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": ",se"
+					},
+					"AwAAAP8LAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAIMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD/CwAAAAAAAP8LAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert_completion",
+					{
+						"completion": "sexe",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "sexe"
+					},
+					"AgAAAAAMAAAAAAAAAAwAAAAAAAACAAAAc2UADAAAAAAAAAQMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACDAAAAAAAAAIMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAAQMAAAAAAAABQwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEDAAAAAAAAAQMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAAUMAAAAAAAABwwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAFDAAAAAAAAAUMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "ses"
+					},
+					"AwAAAAYMAAAAAAAABwwAAAAAAAAAAAAABwwAAAAAAAAIDAAAAAAAAAAAAAAIDAAAAAAAAAkMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGDAAAAAAAAAYMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert_completion",
+					{
+						"completion": "session",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "session"
+					},
+					"AgAAAAYMAAAAAAAABgwAAAAAAAADAAAAc2VzBgwAAAAAAAANDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAJDAAAAAAAAAkMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					5,
+					"left_delete",
+					null,
+					"BQAAAAwMAAAAAAAADAwAAAAAAAABAAAAbgsMAAAAAAAACwwAAAAAAAABAAAAbwoMAAAAAAAACgwAAAAAAAABAAAAaQkMAAAAAAAACQwAAAAAAAABAAAAcwgMAAAAAAAACAwAAAAAAAABAAAAcw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAANDAAAAAAAAA0MAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "x"
+					},
+					"AQAAAAgMAAAAAAAACQwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAIDAAAAAAAAAgMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert_completion",
+					{
+						"completion": "sexe",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "sexe"
+					},
+					"AgAAAAYMAAAAAAAABgwAAAAAAAADAAAAc2V4BgwAAAAAAAAKDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAJDAAAAAAAAAkMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"black",
+					{
+						"use_selection": false
+					},
+					"AQAAAAAAAAAAAAAARA0AAAAAAABIDQAAIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIyBMaWJyYXJ5cwpmcm9tIGZsYXNrIGltcG9ydCBGbGFzaywgcmVuZGVyX3RlbXBsYXRlLCB1cmxfZm9yLCByZXF1ZXN0LCByZWRpcmVjdCwgc2Vzc2lvbgpmcm9tIGZsYXNrX3NxbGFsY2hlbXkgaW1wb3J0IFNRTEFsY2hlbXkKZnJvbSBmbGFza19sb2dpbiBpbXBvcnQgVXNlck1peGluCmZyb20gZmxhc2tfbG9naW4gaW1wb3J0IExvZ2luTWFuYWdlcgpmcm9tIHdlcmt6ZXVnLnNlY3VyaXR5IGltcG9ydCBnZW5lcmF0ZV9wYXNzd29yZF9oYXNoLCBjaGVja19wYXNzd29yZF9oYXNoCgoKaW1wb3J0IG9zCgojIFZhcmlhYmxlcwphcHAgPSBGbGFzayhfX25hbWVfXykKCgojIFNldHRpbmdzCmFwcC5jb25maWdbIkRFQlVHIl0gPSBUcnVlCmFwcC5jb25maWdbIlNFQ1JFVF9LRVkiXSA9ICJzZWNyZXQiCmxvZ2luID0gTG9naW5NYW5hZ2VyKCkKZGIgPSBTUUxBbGNoZW15KCkKCmFwcC5jb25maWdbIlNRTEFMQ0hFTVlfREFUQUJBU0VfVVJJIl0gPSAic3FsaXRlOi8vL2RhdGFiYXNlLnNxbGl0ZS5kYiIKYXBwLmNvbmZpZ1siU1FMQUxDSEVNWV9UUkFDS19NT0RJRklDQVRJT05TIl0gPSBGYWxzZQpkYi5pbml0X2FwcChhcHApCgoKIyBsYSBiYXNlIGRiCmNsYXNzIFVzZXJzKGRiLk1vZGVsKToKICAgIF9fdGFibGVuYW1lX18gPSAiSW5zY3JpcHRpb24iCiAgICBpZCA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBwcmltYXJ5X2tleT1UcnVlKQogICAgTm9tID0gZGIuQ29sdW1uKGRiLlN0cmluZygxMDApLCB1bmlxdWU9VHJ1ZSkKICAgIHByZW5vbSA9IGRiLkNvbHVtbihkYi5TdHJpbmcoMTAwKSkKICAgIHVzZXJuYW1lID0gZGIuQ29sdW1uKGRiLlN0cmluZygxMDApLCB1bmlxdWU9VHJ1ZSkKICAgIGVtYWlsID0gZGIuQ29sdW1uKGRiLlN0cmluZygxMDApLCB1bmlxdWU9VHJ1ZSkKICAgIHBhc3N3b3JkX2hhc2ggPSBkYi5Db2x1bW4oZGIuU3RyaW5nKCkpCiAgICBkYXRlX25haXNzYW5jZSA9IGRiLkNvbHVtbihkYi5TdHJpbmcoKSkKICAgIG5hdGlvbmFsaXRlID0gZGIuQ29sdW1uKGRiLlN0cmluZyg1MCksIHVuaXF1ZT1UcnVlKQogICAgc2V4ZSA9IGRiLkNvbHVtbihkYi5TdHJpbmcoMSksIHVuaXF1ZT1UcnVlKQogICAgQ05JID0gZGIuQ29sdW1uKGRiLlN0cmluZygpKQogICAgdGVsZXBob25lID0gZGIuQ29sdW1uKGRiLlN0cmluZygxMDApKQoKICAgIGRlZiBwYXNzd29yZChzZWxmKToKICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcigicGFzc3dvcmQgaXMgbm90IGEgcmVhZGFibGUgYXR0cmlidXRlISIpCgogICAgIyBAcGFzc3dvcmQuc2V0dGVyCiAgICBkZWYgcGFzc3dvcmQoc2VsZiwgcGFzc3dvcmQpOgogICAgICAgIHNlbGYucGFzc3dvcmRfaGFzaCA9IGdlbmVyYXRlX3Bhc3N3b3JkX2hhc2gocGFzc3dvcmQpCgogICAgZGVmIHZlcmlmeV9wYXNzd29yZChzZWxmLCBwYXNzd29yZCk6CiAgICAgICAgcmV0dXJuIGNoZWNrX3Bhc3N3b3JkX2hhc2goc2VsZi5wYXNzd29yZF9oYXNoLCBwYXNzd29yZCkKCiAgICBkZWYgX19yZXByX18oc2VsZik6CiAgICAgICAgcmV0dXJuIGYiZGF0YV90ZXN0KCAne3NlbGYubmFtZX0nLCd7c2VsZi5lbWFpbCx9Jywne3NlbGYudGVsfScpIgoKCkBhcHAuYmVmb3JlX2ZpcnN0X3JlcXVlc3QKZGVmIGNyZWF0ZV9hbGwoKToKICAgICMgZGIuZHJvcF9hbGwoKQogICAgZGIuY3JlYXRlX2FsbCgpCgoKIyByb3V0ZSBpbmRleApAYXBwLnJvdXRlKCIvIiwgbWV0aG9kcz0oIkdFVCIsICJQT1NUIikpCmRlZiBpbmRleCgpOgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgiaW5kZXguaHRtbCIpCgoKIyByb3V0ZSBsb2dpbgpAYXBwLnJvdXRlKCIvbG9naW4iLCBtZXRob2RzPSgiR0VUIiwgIlBPU1QiKSkKZGVmIGxvZ2luKCk6CiAgICByZXR1cm4gcmVuZGVyX3RlbXBsYXRlKCJsb2dpbi5odG1sIikKCgojIHJvdXRlIHJlZ2lzdGVyCkBhcHAucm91dGUoIi9yZWdpc3RlciIsIG1ldGhvZHM9KCJHRVQiLCAiUE9TVCIpKQpkZWYgcmVnaXN0ZXIoKToKICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICJQT1NUIjoKICAgICAgICBub20gPSByZXF1ZXN0LmZvcm1bIm5hbWUiXQogICAgICAgIHByZW5vbSA9IHJlcXVlc3QuZm9ybVsibGFzdG5hbWUiXQogICAgICAgIHVzZXJuYW1lID0gcmVxdWVzdC5mb3JtWyJ1c2VybmFtZSJdCiAgICAgICAgZW1haWwgPSByZXF1ZXN0LmZvcm1bImVtYWlsIl0KICAgICAgICBwYXNzd29yZF9oYXNoID0gcmVxdWVzdC5mb3JtWyJwYXNzd29yZF9oYXNoIl0KICAgICAgICBkYXRlX25haXNzYW5jZSA9IHJlcXVlc3QuZm9ybVsiZGF0ZV9uYWlzcyJdCiAgICAgICAgbmF0aW9uYWxpdGUgPSByZXF1ZXN0LmZvcm1bIm5hdGlvbmFsaXRlIl0KICAgICAgICBzZXhlID0gcmVxdWVzdC5mb3JtWyJzZXhlIl0KICAgICAgICBDTkkgPSByZXF1ZXN0LmZvcm1bImNuaSJdCiAgICAgICAgdGVsZXBob25lID0gcmVxdWVzdC5mb3JtWyJ0ZWwiXQogICAgICAgIHJlZ2lzdGVyID0gVXNlcnMoCiAgICAgICAgICAgIG5vbT1uYW1lLAogICAgICAgICAgICBwcmVub209bGFzdG5hbWUsCiAgICAgICAgICAgIHVzZXJuYW1lPXVzZXJuYW1lLAogICAgICAgICAgICBlbWFpbD1lbWFpbCwKICAgICAgICAgICAgcGFzc3dvcmRfaGFzaD1wYXNzd29yZF9oYXNoLAogICAgICAgICAgICBkYXRlX25haXNzYW5jZT1kYXRlX25haXNzLAogICAgICAgICAgICBuYXRpb25hbGl0ZT1uYXRpb25hbGl0ZSwKICAgICAgICAgICAgc2V4ZT1zZXhlLAogICAgICAgICAgICBjbmk9Y25pLAogICAgICAgICAgICB0ZWw9dGVsLAogICAgICAgICkKICAgICAgICBwcmludCgiTGVzIERvbm7DqWVzIGR1IEZvcm11bGFpcmUgc29udCBlbnLDqWdpc3Ryw6llcyBhdmVjIHN1Y2PDqHMiKQogICAgICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0iKQogICAgICAgIHByaW50KAogICAgICAgICAgICBmIm5vbSA6IHtuYW1lfSxwcmVub206e2xhc3RuYW1lfSAsdXNlcm5hbWU6e3VzZXJuYW1lfSxlbWFpbCA6e2VtYWlsfSAscGFzc3dvcmRfaGFzaDoge3Bhc3N3b3JkX2hhc2h9LGRhdGVfbmFpc3NhbmNlOntkYXRlX25haXNzfSxuYXRpb25hbGl0ZTp7bmF0aW9uYWxpdGV9LHNleGU6e3NleGV9LGNuaTp7Y25pfSx0ZWxlcGhvbmU6IHt0ZWx9ICIKICAgICAgICApCiAgICAgICAgcmV0dXJuIHJlZGlyZWN0KHVybF9mb3IoImxvZ2luIikpCiAgICBlbHNlOgogICAgICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoInJlZ2lzdGVyLmh0bWwiKQoKCiMgcm91dGUgYWNjdWVpbApAYXBwLnJvdXRlKCIvYWNjdWVpbCIsIG1ldGhvZHM9KCJHRVQiLCAiUE9TVCIpKQpkZWYgYWNjdWVpbCgpOgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgiYWNjdWVpbC5odG1sIikKCgojIFJ1bgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgYXBwLnJ1bigpCg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAKDAAAAAAAAAoMAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "templates/Accueil.html",
+			"settings":
+			{
+				"buffer_size": 478,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAADIBAAAAAAAAMwEAAAAAAAAAAAAAMwEAAAAAAAA3AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgEAAAAAAAAyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "une"
+					},
+					"AwAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA5AQAAAAAAAAAAAAA5AQAAAAAAADoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " appl"
+					},
+					"BQAAADoBAAAAAAAAOwEAAAAAAAAAAAAAOwEAAAAAAAA8AQAAAAAAAAAAAAA8AQAAAAAAAD0BAAAAAAAAAAAAAD0BAAAAAAAAPgEAAAAAAAAAAAAAPgEAAAAAAAA/AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "ica"
+					},
+					"AwAAAD8BAAAAAAAAQAEAAAAAAAAAAAAAQAEAAAAAAABBAQAAAAAAAAAAAABBAQAAAAAAAEIBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwEAAAAAAAA/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " de"
+					},
+					"AwAAAEIBAAAAAAAAQwEAAAAAAAAAAAAAQwEAAAAAAABEAQAAAAAAAAAAAABEAQAAAAAAAEUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgEAAAAAAABCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " gest"
+					},
+					"BQAAAEUBAAAAAAAARgEAAAAAAAAAAAAARgEAAAAAAABHAQAAAAAAAAAAAABHAQAAAAAAAEgBAAAAAAAAAAAAAEgBAAAAAAAASQEAAAAAAAAAAAAASQEAAAAAAABKAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQEAAAAAAABFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "ion"
+					},
+					"AwAAAEoBAAAAAAAASwEAAAAAAAAAAAAASwEAAAAAAABMAQAAAAAAAAAAAABMAQAAAAAAAE0BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " de"
+					},
+					"AwAAAE0BAAAAAAAATgEAAAAAAAAAAAAATgEAAAAAAABPAQAAAAAAAAAAAABPAQAAAAAAAFABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQEAAAAAAABNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFABAAAAAAAAUQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAEAAAAAAABQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "base"
+					},
+					"BAAAAFEBAAAAAAAAUgEAAAAAAAAAAAAAUgEAAAAAAABTAQAAAAAAAAAAAABTAQAAAAAAAFQBAAAAAAAAAAAAAFQBAAAAAAAAVQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " de"
+					},
+					"AwAAAFUBAAAAAAAAVgEAAAAAAAAAAAAAVgEAAAAAAABXAQAAAAAAAAAAAABXAQAAAAAAAFgBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQEAAAAAAABVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": " donne"
+					},
+					"BgAAAFgBAAAAAAAAWQEAAAAAAAAAAAAAWQEAAAAAAABaAQAAAAAAAAAAAABaAQAAAAAAAFsBAAAAAAAAAAAAAFsBAAAAAAAAXAEAAAAAAAAAAAAAXAEAAAAAAABdAQAAAAAAAAAAAABdAQAAAAAAAF4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF0BAAAAAAAAXQEAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAXgEAAAAAAABeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "é"
+					},
+					"AQAAAF0BAAAAAAAAXgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "es"
+					},
+					"AgAAAF4BAAAAAAAAXwEAAAAAAAAAAAAAXwEAAAAAAABgAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgEAAAAAAABeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGABAAAAAAAAYQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "se"
+					},
+					"AgAAAGEBAAAAAAAAYgEAAAAAAAAAAAAAYgEAAAAAAABjAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQEAAAAAAABhAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGIBAAAAAAAAYgEAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAYwEAAAAAAABjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "écuri"
+					},
+					"BQAAAGIBAAAAAAAAYwEAAAAAAAAAAAAAYwEAAAAAAABkAQAAAAAAAAAAAABkAQAAAAAAAGUBAAAAAAAAAAAAAGUBAAAAAAAAZgEAAAAAAAAAAAAAZgEAAAAAAABnAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgEAAAAAAABiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "sée"
+					},
+					"AwAAAGcBAAAAAAAAaAEAAAAAAAAAAAAAaAEAAAAAAABpAQAAAAAAAAAAAABpAQAAAAAAAGoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwEAAAAAAABnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGkBAAAAAAAAaQEAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAagEAAAAAAABqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAGkBAAAAAAAAagEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQEAAAAAAABpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "tion"
+					},
+					"BAAAAEIBAAAAAAAAQwEAAAAAAAAAAAAAQwEAAAAAAABEAQAAAAAAAAAAAABEAQAAAAAAAEUBAAAAAAAAAAAAAEUBAAAAAAAARgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgEAAAAAAABCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "<h"
+					},
+					"AgAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA5AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAADkBAAAAAAAAOgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQEAAAAAAAA5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAADoBAAAAAAAAOwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "<h"
+					},
+					"AgAAAHIBAAAAAAAAcwEAAAAAAAAAAAAAcwEAAAAAAAB0AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "1>"
+					},
+					"AgAAAHQBAAAAAAAAdQEAAAAAAAAAAAAAdQEAAAAAAAB2AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAEAAAAAAAB0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"cut",
+					null,
+					"AQAAADoBAAAAAAAAOgEAAAAAAAA7AAAAPnVuZSBhcHBsaWNhdGlvbiBkZSBnZXN0aW9uIGRlIGJhc2UgZGUgZG9ubsOpZXMgc8OpY3VyaXPDqXM",
+					"AQAAAAAAAAABAAAAOgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AQAAADsBAAAAAAAAPAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwEAAAAAAAA7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "7"
+					},
+					"AQAAADwBAAAAAAAAPQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAADwBAAAAAAAAPAEAAAAAAAABAAAANw",
+					"AQAAAAAAAAABAAAAPQEAAAAAAAA9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					3,
+					"left_delete",
+					null,
+					"BQAAADkBAAAAAAAAOQEAAAAAAAABAAAAMTgBAAAAAAAAOAEAAAAAAAABAAAAaDcBAAAAAAAANwEAAAAAAAABAAAAPDMBAAAAAAAAMwEAAAAAAAAEAAAAICAgIDMBAAAAAAAAMwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "<BR"
+					},
+					"AwAAACYBAAAAAAAAJwEAAAAAAAAAAAAAJwEAAAAAAAAoAQAAAAAAAAAAAAAoAQAAAAAAACkBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"left_delete",
+					null,
+					"AQAAACgBAAAAAAAAKAEAAAAAAAABAAAAUg",
+					"AQAAAAAAAAABAAAAKQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"left_delete",
+					null,
+					"AQAAACcBAAAAAAAAJwEAAAAAAAABAAAAQg",
+					"AQAAAAAAAAABAAAAKAEAAAAAAAAoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "br"
+					},
+					"AgAAACcBAAAAAAAAKAEAAAAAAAAAAAAAKAEAAAAAAAApAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwEAAAAAAAAnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAACkBAAAAAAAAKgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"paste",
+					null,
+					"AQAAACoBAAAAAAAAYgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgEAAAAAAAAqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"left_delete",
+					null,
+					"AQAAACoBAAAAAAAAKgEAAAAAAAABAAAAPg",
+					"AQAAAAAAAAABAAAAKwEAAAAAAAArAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"PIP",
+				"Package Control: Install Package"
+			],
+			[
+				"3",
+				"3v4l Uploader: upload this php file"
+			],
+			[
+				"tre",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"ter",
+				"Preferences: Terminality Key Bindings – Default"
+			],
+			[
+				"terminus",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"treminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"iksga",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"tern",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INS",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Mr Bamory L3/Desktop/projet/Nouveau dossier/projet",
+		"/C/Users/Mr Bamory L3/Desktop/projet/Nouveau dossier/projet/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/Mr Bamory L3/Desktop/projet/projetfin/projet.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/projet.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/formulaire.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/FORMULAIRE1.HTML",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/login2.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/main/main.py",
+		"/C/Users/Mr Bamory L3/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Mr Bamory L3/Desktop/projet/main/templates/Login.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/test.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/index.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/gestion/gestion.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/gestion/templates/login.html",
+		"/C/Users/Mr Bamory L3/OneDrive/projet/projet.py",
+		"/C/Users/Mr Bamory L3/OneDrive/projet/templates/test.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/gestion/templates/inscription.html",
+		"/C/Users/Mr Bamory L3/OneDrive/projet/templates/formulaire.html",
+		"/C/Users/Mr Bamory L3/OneDrive/projet/templates/login1.html",
+		"/C/Users/Mr Bamory L3/OneDrive/Projet de fin de cycle/projet/projet.py",
+		"/C/Users/Mr Bamory L3/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Mr Bamory L3/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Mr Bamory L3/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Mr Bamory L3/Downloads/Enregistrer le formulaire de connexion en Python avec le code source - Que des Projet_files/anchor.html",
+		"/C/Users/Mr Bamory L3/OneDrive/Projet de fin de cycle/projet/templates/login2.html",
+		"/C/Users/Mr Bamory L3/OneDrive/programmation de fin de cycle/projet/projet.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/pyproject.toml",
+		"/C/Users/Mr Bamory L3/AppData/Roaming/Sublime Text 3/Packages/Terminality/Default.sublime-keymap",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/formulaire2.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/FORMULAIRE.HTML",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/login.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/config.py",
+		"/C/Users/Mr Bamory L3/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/forms.py",
+		"/C/Users/Mr Bamory L3/Desktop/stage/main.py",
+		"/C/Users/Mr Bamory L3/Desktop/stage/pa.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/Inscription.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/traitement.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/static/style.css",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/static/script.js",
+		"/C/Users/Mr Bamory L3/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Mr Bamory L3/Downloads/Application Web pour enregistrer un client avec Flask, Python, MySQL, HTML et CSS by Sahil Khoja Medium.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/register.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/Gestion.db",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/main.py",
+		"/C/Users/Mr Bamory L3/3D Objects/EXO/TD/index.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/login.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/style.css",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/Log.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/mode.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/user.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/heure.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/compte.html",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/Text.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/text.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/hello.py",
+		"/C/Users/Mr Bamory L3/Desktop/projet/projet/templates/Styles.css",
+		"/C/Users/Mr Bamory L3/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Mr Bamory L3/Downloads/Package Control (1).sublime-package",
+		"/C/Users/Mr Bamory L3/Desktop/script1.py",
+		"/C/Users/Mr Bamory L3/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "projet.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3303,
+								3303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"file": "/J/inscription AEJ du 27/IMG_3859.JPG",
+					"semi_transient": false,
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "image"
+				},
+				{
+					"file": "/J/Inscription du 30/148-KONANKonan Fabrice.JPG",
+					"selected": true,
+					"semi_transient": false,
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "image"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "templates/Accueil.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projet.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
