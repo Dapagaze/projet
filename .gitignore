@@ -1,2 +1,4 @@
 projet.sublime-project
 projet.sublime-workspace
+.gitignore
+venv
