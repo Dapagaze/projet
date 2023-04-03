@@ -6,12 +6,16 @@ from flask_login import UserMixin
 from flask_login import LoginManager
 from werkzeug.security import generate_password_hash, check_password_hash
 
+# from PIL import image, ImageDraw
+
 
 import os
 
 # Variables
 app = Flask(__name__)
 
+IMG_FOLDER = os.path.join("static", "IMG")
+app.config["UPLOAD_FOLDER"] = IMG_FOLDER
 
 # Settings
 app.config["DEBUG"] = True
@@ -81,7 +85,7 @@ def register():
         prenom = request.form["lastname"]
         username = request.form["username"]
         email = request.form["email"]
-        password_hash = request.form["password_hash"]
+        password_hash = request.form["password"]
         date_naissance = request.form["date_naiss"]
         nationalite = request.form["nationalite"]
         sexe = request.form["sexe"]
@@ -93,7 +97,7 @@ def register():
             username=username,
             email=email,
             password_hash=password_hash,
-            date_naissance=date_naiss,
+            date_naissance=date,
             nationalite=nationalite,
             sexe=sexe,
             cni=cni,
@@ -102,7 +106,7 @@ def register():
         print("Les Données du Formulaire sont enrégistrées avec succès")
         print("---------------")
         print(
-            f"nom : {name},prenom:{lastname} ,username:{username},email :{email} ,password_hash: {password_hash},date_naissance:{date_naiss},nationalite:{nationalite},sexe:{sexe},cni:{cni},telephone: {tel} "
+            f"nom : {name},prenom:{lastname} ,username:{username},email :{email} ,password_hash: {password},date_naissance:{date},nationalite:{nationalite},sexe:{sexe},cni:{cni},telephone: {tel} "
         )
         return redirect(url_for("login"))
     else:

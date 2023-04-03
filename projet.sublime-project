@@ -3,7 +3,10 @@
 	[
 		{
 			"path": ".",
-		}
+		},
+		{
+			"path": "C:\\Users\\Mr Bamory L3\\Desktop\\projet\\projetfin"
+		},
 	],
 	"build_systems":
 	[
@@ -11,7 +14,7 @@
 			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
 			"name": "Anaconda Python Builder",
 			"selector": "source.python",
-			"shell_cmd": "\"python\" -u \"$file\""
+			"shell_cmd": "\"python\" -u \"$file\"",
 		}
 	],
 }
